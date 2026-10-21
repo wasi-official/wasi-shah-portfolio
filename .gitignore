@@ -1,0 +1,23 @@
+# Local scratch and build workspace
+_work/
+server.pid
+assets/_*.png
+*.log
+
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Deployment metadata
+.vercel/
+
+# Local app data
+.freebuff/
+
+# OS files
+.DS_Store
+Thumbs.db

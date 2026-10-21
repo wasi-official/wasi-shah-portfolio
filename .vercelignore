@@ -1,0 +1,8 @@
+_work/
+assets/_*.png
+server.pid
+*.log
+node_modules/
+.vercel/
+.freebuff/
+.git/
