@@ -4,6 +4,10 @@ A responsive single-page portfolio for **Syed Wasi Shah**, Software Engineering 
 
 The site is a self-contained static page: `index.html` includes the copy, styles, interactions, project artwork, and the embedded monochrome hero photograph. There is no build step and no server-side runtime.
 
+## Live site
+
+<https://wasi-shah-portfolio-gold.vercel.app>
+
 ## Stack
 
 - HTML, CSS, and vanilla JavaScript
